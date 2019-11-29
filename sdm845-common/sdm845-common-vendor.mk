@@ -135,4 +135,5 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     WfdCommon \
     qcnvitems \
-    dashd
+    dashd \
+    libplatformconfig
